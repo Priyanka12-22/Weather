@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="error_message">Error, Try Again!</string>
+    <string name="choose_theme_text">Choose theme</string>
+</resources>
